@@ -1,7 +1,7 @@
 # Desafio 1 - GOLANG
 
-## LINK do DOCKER HUB
-**<a href="https://hub.docker.com/r/masilvadocker/full-cylce-rocks">Docker Hub</a>**
+## LINK da imagem no DOCKER HUB --> **<a href="https://hub.docker.com/r/masilvadocker/full-cylce-rocks">Docker Hub</a>**
+
 
 ```
 Esse desafio é muito empolgante principalmente se você nunca trabalhou com a linguagem Go!
